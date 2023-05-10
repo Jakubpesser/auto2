@@ -6,3 +6,7 @@ input.onButtonPressed(Button.A, function () {
         PCAmotor.MotorRun(PCAmotor.Motors.M1, -ur)
     }
 })
+// input.onButtonPressed(Button.A, function () {
+
+//     PCAmotor.MotorRun(PCAmotor.Motors.M4, 200)
+// })
